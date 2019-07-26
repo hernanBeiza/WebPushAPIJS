@@ -1,0 +1,14 @@
+{ 
+  "env": {
+    "port": 27017,
+    "host": "mongodb://localhost:27017/",
+    "user": "",
+    "pass": "",
+    "db": "webpushdb",
+    "permiso": "http://localhost:4200",
+    "server": "http://192.168.56.3/",
+    "api": "http://192.168.56.3/",
+    "secret": "asdf",
+    "keys": "./keys_dev"
+  }
+}
